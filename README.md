@@ -18,7 +18,7 @@ A full-stack data science application designed to predict bank customer churn an
 * **Interactive Dashboard:** User-friendly interface for non-technical stakeholders.
 
 ## How to Run
-1.  Clone the repository: `git clone [YOUR_REPO_LINK_HERE]`
+1.  Clone the repository: `git clone https://github.com/rstanton422/churn-risk-app.git`
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Run the app: `streamlit run app.py`
 
